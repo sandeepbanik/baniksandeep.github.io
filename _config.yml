@@ -13,9 +13,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sandeep Banik"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://baniksandeep.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://baniksandeep.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/baniksandeep.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "baniksandeep.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,7 +23,7 @@ repository               : "baniksandeep.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.jpg"
   name             : "Sandeep Banik"
   pronouns         : "he/him"  
   bio              : "Welcome! I'm a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign, working with Naira Hovakimyan. I obtained my PhD from Michigan State University in 2023, advised by Shaunak D. Bopardikar."
