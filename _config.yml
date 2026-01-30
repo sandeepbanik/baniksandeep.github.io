@@ -24,13 +24,13 @@ repository               : "baniksandeep.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Sandeep Banik"
+  pronouns         : "he/him"  
+  bio              : "Welcome! I'm a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign, working with Naira Hovakimyan. I obtained my PhD from Michigan State University in 2023, advised by Shaunak D. Bopardikar."
+  location         : "USA"
+  employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "baniksan@illinois.edu" 
 
   # Academic websites
   academia         : # URL
