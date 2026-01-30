@@ -23,7 +23,7 @@ repository               : "baniksandeep.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile.jpeg"
   name             : "Sandeep Banik"
   pronouns         : "he/him"  
   bio              : "Welcome! I'm a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign, working with Naira Hovakimyan. I obtained my PhD from Michigan State University in 2023, advised by Shaunak D. Bopardikar."
